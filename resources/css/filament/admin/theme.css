@@ -1,0 +1,8 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+@import '../../../../vendor/businesstilto/commentable/resources/css/plugin.css';
+
+@plugin "@tailwindcss/typography";
+
+@source '../../../../app/Filament/**/*';
+@source '../../../../resources/views/filament/**/*';
