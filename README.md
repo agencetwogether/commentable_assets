@@ -8,6 +8,10 @@
 
 ```php artisan migrate --seed```
 
+```npm install```
+
+```npm run build```
+
 ```php artisan serve```
 
 Go to ```http://127.0.0.1:8000```, credentials are prefilled, 
